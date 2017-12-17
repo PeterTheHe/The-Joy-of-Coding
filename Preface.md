@@ -23,4 +23,6 @@ Before we start, here are some random things I'd like you to bear in mind as you
 
 * With computers there's a very fine line between what is possible and what isn't. Scoping is important and your ability to do so grows with experience - don't worry too much about it now.
 
+* And finally, always remember that **computers are just tools** - like a hammer or screwdriver, they make things easier but they aren't the only ones in existence... 
+
 ![Adam](https://fiu-assets-2-syitaetz61hl2sa.stackpathdns.com/static/use-media-items/8/7181/upto-700xauto/56701e6e/old-adam-apple-ad.jpeg?resolution=0)
